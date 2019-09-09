@@ -57,7 +57,6 @@ const About = () => (
 const Friends = () => (
   <div>
     <h2>Friends</h2>
-    <p>ここにフレンズのリストを書きます</p>
     <Route exact path='/friends' component={FriendList} />
     <Route path='/friends/:id' component={Friend} />
   </div>
