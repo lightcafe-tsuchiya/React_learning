@@ -6,5 +6,5 @@ FEスキル学習用
 - tic-tac-toe
     - チュートリアルの三目並べアプリ
 
-- react-router-v4-tutorial
-    - react-router@v4を使ってみよう：シンプルなtutorial
+
+- hoge
